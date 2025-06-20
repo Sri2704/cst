@@ -11,6 +11,7 @@ class PDFDocument implements Document{
 class WordDocument implements Document{
     public void printContent(){
         System.out.println("Printing the contents of WORD DOCUMENT!");
+        System.out.println("yahya");
     }
 }
 
