@@ -39,6 +39,7 @@ public class SingletonTest{
         }
         else{
             System.out.println("Error. Multiple Singletons were created!");
+            System.out.println("Error. Multiple Singletons were created!");
         }
     }
 }
